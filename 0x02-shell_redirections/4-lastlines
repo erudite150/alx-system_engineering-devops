@@ -1,2 +1,2 @@
-#!/bin/bash
-tall /etc/passwd
+!/bin/bash
+/etc/passwd
