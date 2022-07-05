@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 lacta | tall -n 1
+head -3  | tall -n 1
